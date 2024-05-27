@@ -1,2 +1,2 @@
 # Face-Detector-Python-Project.
-Builded a Face Detector using Python OpenCV. It's used to detect a face and pressing 'q' key can quit from this application.
+The objective of this code is to capture live video from a webcam, detect faces in real-time, and highlight them with rectangles.
